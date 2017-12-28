@@ -1,4 +1,5 @@
-###收集git地址
+# git
+收集git地址
   
 #王树东
 https://github.com/itguide
@@ -16,18 +17,13 @@ https://github.com/liuzhengyan123
 #苏毅
 https://github.com/xueli233
 
-#阿里技术 阿里妹  杭州云栖大会2017
-https://github.com/Alimei
 
-#云栖大会视频地址
-https://yunqi.aliyun.com/
+#手摸手地址
+https://github.com/PanJiaChen/vue-element-admin  
+https://segmentfault.com/a/1190000009275424  
+http://panjiachen.github.io/vue-element-admin/#/dashboard  线上地址
 
-
-#vue全家桶
-https://github.com/hzzly
-
-
-#前端业务代码工具库
-https://github.com/proYang/outils
-
+##基于iview的后台管理系统地址
+https://iview.github.io/iview-admin/#/home  线上地址  
+https://github.com/iview/iview-admin  代码地址
 
