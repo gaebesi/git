@@ -27,3 +27,13 @@ http://panjiachen.github.io/vue-element-admin/#/dashboard  线上地址
 https://iview.github.io/iview-admin/#/home  线上地址  
 https://github.com/iview/iview-admin  代码地址
 
+##iview-area  
+ 一款基于Vue框架和iView-UI组件库开发的城市级联组件，数据包含中国的省(直辖市)、市、县区和乡镇街，数据来源area-data
+
+##vue 移动端数字键盘插件 
+https://segmentfault.com/a/1190000009678676
+https://github.com/helicopters/wc-keyboard
+
+
+##星富通 错误码约定
+https://spdb.91xft.cn/sys/error/codes
