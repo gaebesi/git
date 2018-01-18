@@ -37,3 +37,11 @@ https://github.com/helicopters/wc-keyboard
 
 ##星富通 错误码约定
 https://spdb.91xft.cn/sys/error/codes
+
+
+## 文本编辑器
+https://suweiteng.github.io/vue2-management-platform/#/editor
+https://github.com/suweiteng/vue2-management-platform  代码地址
+
+## mackdown 编辑器
+https://github.com/ovenslove/vue-mdEditor
