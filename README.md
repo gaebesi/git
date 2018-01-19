@@ -30,6 +30,9 @@ https://github.com/iview/iview-admin  代码地址
 ##iview-area  
  一款基于Vue框架和iView-UI组件库开发的城市级联组件，数据包含中国的省(直辖市)、市、县区和乡镇街，数据来源area-data
 
+## 二维码生成
+- https://github.com/aralejs/qrcode
+
 ##vue 移动端数字键盘插件 
 https://segmentfault.com/a/1190000009678676
 https://github.com/helicopters/wc-keyboard
