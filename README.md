@@ -48,3 +48,6 @@
 
 ##mackdown 编辑器
 - https://github.com/ovenslove/vue-mdEditor
+
+##sock.js 类似于websocket
+- https://github.com/sockjs/sockjs-client
