@@ -30,6 +30,10 @@
 ##iview-area  
 - 一款基于Vue框架和iView-UI组件库开发的城市级联组件，数据包含中国的省(直辖市)、市、县区和乡镇街，数据来源area-data
 
+##element-china-area-data
+- https://github.com/Plortinus/element-china-area-data
+- https://plortinus.github.io/element-china-area-data/index.html
+
 ##二维码生成
 - https://github.com/aralejs/qrcode
 
@@ -51,3 +55,9 @@
 
 ##sock.js 类似于websocket
 - https://github.com/sockjs/sockjs-client
+
+##为前端Web开发人员手动策划收集资源。
+- https://github.com/dypsilon/frontend-dev-bookmarks?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
+
+##React UI组件
+- https://github.com/rsuite/rsuite?f=tt&hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
