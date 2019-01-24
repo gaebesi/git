@@ -61,3 +61,6 @@
 
 ##React UI组件
 - https://github.com/rsuite/rsuite?f=tt&hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
+
+## 基于百度编辑器和vue的编辑器
+- https://github.com/HaoChuan9421/vue-ueditor-wrap
